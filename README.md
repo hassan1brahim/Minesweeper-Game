@@ -59,16 +59,7 @@ I wanted to see how different it feels to implement the same logic in two differ
 
 That contrast really showed me how much language choice affects speed of development, even for the same project.
 
----
 
-## File Structure
-
-```
-Minesweeper-Game/
-├── minesweeper.cpp       # C++ implementation
-├── minesweeper2.py       # Python implementation
-└── README.md             # This file
-```
 
 ---
 
